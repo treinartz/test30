@@ -19,7 +19,7 @@ export const weeks = [
     title: "Environment Setup",
     topics: "Git, VS Code, AI Workflow",
     description: "Setting up my development environment and learning version control basics.",
-    gifPath: "/gifs/week0-environment.gif",
+    gifPath: "gifs/week0-environment.gif",
     sketchUrl: "https://editor.p5js.org/your-username/sketches/xxxxx",
     learnings: [
       "Configured VS Code with helpful extensions",
@@ -38,7 +38,7 @@ git push origin main`
     title: "Canvas & Shapes",
     topics: "Coordinate system, basic shapes, RGB color",
     description: "Learning to draw on the p5.js canvas with shapes and colors.",
-    gifPath: "/gifs/week1-canvas.gif",
+    gifPath: "gifs/week1-canvas.gif",
     sketchUrl: "https://editor.p5js.org/your-username/sketches/xxxxx",
     learnings: [
       "The canvas coordinate system starts at top-left (0,0)",
@@ -62,7 +62,7 @@ function draw() {
     title: "Variables & Interactivity",
     topics: "Variables, mouseX, mouseY, dynamic sketches",
     description: "Making sketches respond to user input with variables and mouse tracking.",
-    gifPath: "/gifs/week2-variables.gif",
+    gifPath: "gifs/week2-variables.gif",
     sketchUrl: "https://editor.p5js.org/your-username/sketches/xxxxx",
     learnings: [
       "Variables store values that can change",
@@ -88,7 +88,7 @@ function draw() {
     title: "Functions & Randomness",
     topics: "Custom functions, parameters, random(), noise()",
     description: "Creating reusable code blocks and adding unpredictability to sketches.",
-    gifPath: "/gifs/week3-functions.gif",
+    gifPath: "gifs/week3-functions.gif",
     sketchUrl: "https://editor.p5js.org/your-username/sketches/xxxxx",
     learnings: [
       "Functions let you reuse code without repeating it",
@@ -125,7 +125,7 @@ function drawFlower(x, y, size) {
     title: "Conditionals",
     topics: "if/else, comparison operators, state management",
     description: "Making decisions in code with conditional statements.",
-    gifPath: "/src/assets/gifs/week4-conditionals.gif",
+    gifPath: "gifs/week4-conditionals.gif",
     sketchUrl: "https://editor.p5js.org/your-username/sketches/xxxxx",
     learnings: [
       "if/else lets code make decisions",
